@@ -1,5 +1,11 @@
 # 🛍️ Fashion Search Engine (Image + Text)
 
+<div align="center">
+  <a href="https://huggingface.co/spaces/omoured/fashion-search-engine">
+    <img src="https://img.shields.io/badge/Live%20Demo-Hugging%20Face-blue?logo=huggingface" alt="Hugging Face Demo" />
+  </a>
+</div>
+
 This project provides an efficient way to search fashion products using either an image or a textual description. Users can search either by uploading an image or entering a descriptive text query, and the system will return visually or semantically similar fashion items.
 
 Powered by **OpenAI’s CLIP ViT-B/32** model and accelerated using ONNX and FAISS for real-time retrieval.
