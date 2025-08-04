@@ -156,4 +156,4 @@ This project was developed as part of **Omar Moured's job application** for a po
 
 The code, data processing scripts, and UI implementation provided in this repository are **not intended for public distribution or reuse**.
 
-All content is protected under a **custom restricted-use license**. You may **not copy, distribute, modify, or use any portion of this codebase** without **explicit written permission** from the author.
+All content is protected under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 (CC BY-NC-ND 4.0).
