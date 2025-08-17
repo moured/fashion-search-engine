@@ -157,9 +157,4 @@ Once the script runs, Gradio will start a local web server and display a URL. Yo
 ---
 
 ## 📄 References & Licensing
-
-This project was developed as part of **Omar Moured's job application** for a position at [Sereact.ai](https://sereact.ai/).
-
-The code, data processing scripts, and UI implementation provided in this repository are **not intended for public distribution or reuse**.
-
 All content is protected under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 (CC BY-NC-ND 4.0).
